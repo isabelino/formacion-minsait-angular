@@ -14,6 +14,8 @@ export class MainPageComponent  {
 
   }
 
+
+/*
   personajes:Personaje[] = [
     {
       nombre: "Krilin",
@@ -32,6 +34,9 @@ export class MainPageComponent  {
     console.log("Esto viene del hijo agregar: ",personaje);
     this.personajes.push(personaje);
 
+
+
   }
+  */
 
 }
